@@ -10,4 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A13788899580)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=A13788899580)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=A13788899580)](https://github.com/ryo-ma/github-profile-trophy)
